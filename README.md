@@ -10,3 +10,4 @@ For the following purpose PV-DM method is used to handle textual info.
 2. Gensim
 3. Sklearn
 4. XGboost
+5. nltk
